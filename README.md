@@ -1,4 +1,3 @@
 # solar_detection
 
 
-
