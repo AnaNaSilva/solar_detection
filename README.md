@@ -1,12 +1,2 @@
-
-
-
-
-
-
-
-
-
-
 # solar_detection
 
